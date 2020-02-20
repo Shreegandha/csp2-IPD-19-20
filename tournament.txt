@@ -16,20 +16,20 @@ Section 1 - Player vs. Player
 --------------------------------------------------------------------------------
 Each column shows pts//round earned against each other player:
              P0     P1     P2     P3
-vs. P0 :      0   -140   -195   -200
-vs. P1 :   -285      0   -286   -288
-vs. P2 :   -195   -140      0   -200
-vs. P3 :   -200   -136   -200      0
-TOTAL  :   -680   -416   -681   -688
+vs. P0 :      0   -140   -198   -200
+vs. P1 :   -285      0   -286   -289
+vs. P2 :   -198   -140      0   -203
+vs. P3 :   -200   -135   -198      0
+TOTAL  :   -683   -415   -682   -692
 --------------------------------------------------------------------------------
 Section 2 - Leaderboard
 --------------------------------------------------------------------------------
 Average points per round:
 Team name (P#):  Score      with strategy name
 Team Compu(P1):       -104 points with Collude, Betray, Betray                 
-Team Compu(P0):       -170 points with Betray, Betray, Collude                 
+Team Compu(P0):       -171 points with Betray, Betray, Collude                 
 Team Compu(P2):       -171 points with BBCB                                    
-E3        (P3):       -172 points with Collude but retaliate                   
+E3        (P3):       -173 points with Collude but retaliate                   
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 example0--------------------------------------------------------------------------------
@@ -167,17 +167,20 @@ Section 3 - Game Data for Team Team Computer
 BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
 cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
 
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBc
+BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
+cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBc
 
 --------------------------------------------------------------------------------
--195 pt//round: Team Computer(P0) "Betray, Betray, Collude"
--195 pt//ound: Team Computer(P2) "BBCB"
+-198 pt//round: Team Computer(P0) "Betray, Betray, Collude"
+-198 pt//ound: Team Computer(P2) "BBCB"
 bCCCBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 bCCCcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
-BcBcBcBcBcBcBcBcBcBcBc
-cBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
 --------------------------------------------------------------------------------
 -200 pt//round: Team Computer(P0) "Betray, Betray, Collude"
@@ -185,8 +188,11 @@ cBcBcBcBcBcBcBcBcBcBcB
 BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
-BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
-cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -197,8 +203,8 @@ Section 3 - Game Data for Team Team Computer
 cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
 BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
 
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBc
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
+cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBc
+BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
 
 --------------------------------------------------------------------------------
 -140 pt//round: Team Computer(P1) "Collude, Betray, Betray"
@@ -206,32 +212,32 @@ BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
 cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
 BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
 
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
-
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBc
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
+cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBb
+BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcb
 
 --------------------------------------------------------------------------------
--136 pt//round: Team Computer(P1) "Collude, Betray, Betray"
--288 pt//ound: E3(P3) "Collude but retaliate"
+-135 pt//round: Team Computer(P1) "Collude, Betray, Betray"
+-289 pt//ound: E3(P3) "Collude but retaliate"
 CBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
 CcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
 
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcB
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBc
+cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
+BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 Section 3 - Game Data for Team Team Computer
 --------------------------------------------------------------------------------
--195 pt//round: Team Computer(P2) "BBCB"
--195 pt//ound: Team Computer(P0) "Betray, Betray, Collude"
+-198 pt//round: Team Computer(P2) "BBCB"
+-198 pt//ound: Team Computer(P0) "Betray, Betray, Collude"
 bCCCcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 bCCCBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 
-cBcBcBcBcBcBcBcBcBcBcB
-BcBcBcBcBcBcBcBcBcBcBc
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 
 --------------------------------------------------------------------------------
 -286 pt//round: Team Computer(P2) "BBCB"
@@ -239,20 +245,17 @@ BcBcBcBcBcBcBcBcBcBcBc
 BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
 cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
 
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
-
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcB
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBc
+BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcb
+cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBb
 
 --------------------------------------------------------------------------------
--200 pt//round: Team Computer(P2) "BBCB"
--200 pt//ound: E3(P3) "Collude but retaliate"
+-198 pt//round: Team Computer(P2) "BBCB"
+-203 pt//ound: E3(P3) "Collude but retaliate"
 BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
-BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
-cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
@@ -263,25 +266,28 @@ Section 3 - Game Data for Team E3
 cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 
-cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
-BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
-
---------------------------------------------------------------------------------
--288 pt//round: E3(P3) "Collude but retaliate"
--136 pt//ound: Team Computer(P1) "Collude, Betray, Betray"
-CcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
-CBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
-
-BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBc
-cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcB
-
---------------------------------------------------------------------------------
--200 pt//round: E3(P3) "Collude but retaliate"
--200 pt//ound: Team Computer(P2) "BBCB"
 cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
 
-cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
-BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+
+--------------------------------------------------------------------------------
+-289 pt//round: E3(P3) "Collude but retaliate"
+-135 pt//ound: Team Computer(P1) "Collude, Betray, Betray"
+CcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
+CBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
+
+BcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbcBcbc
+cBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbBcBbB
+
+--------------------------------------------------------------------------------
+-203 pt//round: E3(P3) "Collude but retaliate"
+-198 pt//ound: Team Computer(P2) "BBCB"
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+
+cBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBc
+BcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcBcB
 
 --------------------------------------------------------------------------------
